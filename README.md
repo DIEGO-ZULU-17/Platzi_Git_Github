@@ -1,6 +1,4 @@
 # Platzi_Git_Github
 Curso de Git y GitHub de Platzi.
 
-Mi primera contribución local para Github.
-
-Un Commit más desde Github.
+Mi primera contribución local para Github
